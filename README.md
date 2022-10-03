@@ -1,2 +1,2 @@
 # BMI-Calculator
-My First React Native App styled using [NativeWind](https://www.nativewind.dev/).
+My first React Native App styled using [NativeWind](https://www.nativewind.dev/).
